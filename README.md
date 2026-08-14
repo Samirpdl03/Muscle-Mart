@@ -76,7 +76,7 @@ There are still many things that can be added to make Muscle Mart a complete e-c
 
 ## 👨‍💻 Developer
 
-**Samir Poudel**
+**Samir Poudel**  **Bibek Aryal**
 
 BCA 4th Semester
 Tribhuvan University, Nepal
